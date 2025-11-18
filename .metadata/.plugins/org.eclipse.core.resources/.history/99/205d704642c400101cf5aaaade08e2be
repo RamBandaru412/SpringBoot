@@ -1,0 +1,5 @@
+package com.springboot.Learn_SpringJpaHibernate.course;
+
+public class Course {
+
+}

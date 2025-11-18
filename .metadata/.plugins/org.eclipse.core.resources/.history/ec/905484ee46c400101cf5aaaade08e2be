@@ -1,0 +1,9 @@
+package com.springboot.Learn_SpringJpaHibernate.course.springdatajpa;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.springboot.Learn_SpringJpaHibernate.course.Course;
+
+public interface CourseSpringDataJpaRepository extends JpaRepository<Course, Long>{
+
+}
