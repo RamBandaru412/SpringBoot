@@ -1,5 +1,0 @@
-package com.springboot.Learn_SpringJpaHibernate.course.springdatajpa;
-
-public interface SpringDataJpa {
-
-}

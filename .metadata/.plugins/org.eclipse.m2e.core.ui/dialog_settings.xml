@@ -2,6 +2,11 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\sgdra\eclipse-workspace2\FirstApp"/>
+			<item value="C:\Users\sgdra\eclipse-workspace2\FirstHtmlPage"/>
+			<item value="C:\Users\sgdra\eclipse-workspace2\FirstHtml"/>
+			<item value="C:\Users\sgdra\eclipse-workspace2\HtmlPage"/>
+			<item value="C:\Users\sgdra\eclipse-workspace2\MyFirstApp"/>
 			<item value="C:\Users\sgdra\eclipse-workspace2\Learn-SpringJpaHibernate"/>
 		</list>
 		<list key="projectNameTemplate">

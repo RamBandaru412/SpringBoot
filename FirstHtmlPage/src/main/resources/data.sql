@@ -1,0 +1,1 @@
+insert into todo(ID,USERNAME,DESCRIPTION,TARGETDATE,DONE)values(1001,'RAM','Learn SpringBoot',Current_date(),false)
